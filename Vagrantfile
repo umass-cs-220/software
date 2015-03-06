@@ -4,7 +4,7 @@
 # Vagrantfile API/syntax version. Don't touch unless you know what you're doing!
 VAGRANTFILE_API_VERSION = "2"
 
-# The script to provision the CMPSCI 320 development environment. It is a stripped
+# The script to provision the CMPSCI 220 development environment. It is a stripped
 # down version of the install script for Lubuntu. In particular, it does not include
 # any editors, browsers, or other UI related software.
 $script = <<SCRIPT
